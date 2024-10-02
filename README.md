@@ -55,3 +55,4 @@ Two aspects of vanilla villages have been modified:
 
 - Images
     - [Villager](https://minecraft.wiki/w/Villager), [Zombie Villager](https://minecraft.wiki/w/Zombie_Villager), and [Brewing Stand](https://minecraft.wiki/w/Brewing_Stand) images came from Minecraft Wiki
+    - Icon [font generator](https://www.textstudio.com/)
