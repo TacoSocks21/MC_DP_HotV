@@ -2,11 +2,11 @@
 
 ## Minecraft Data Pack by TacoSocks
 
-This simple data pack changes up interaction with villagers in the early game. With all natural villager spawns in villages being replaced with zombie villagers, the player must cure every villager of their zombified state in order to take advantage of trading.
+> "You won't just become the hero of the village, but the **hero of *ALL* villagers**!"
 
-*HINT*: The village church might assist you in this endeavor...
+This simple data pack changes up the interaction with villagers in the early game. With all natural villager spawns in villages being replaced with zombie villagers, the player must cure every villager of their zombified state in order to take advantage of trading.
 
-You won't just become the hero of the village, but the **hero of *ALL* the villagers**!
+*HINT*: The village church might assist the player in this endeavor...
 
 ---
 
@@ -23,8 +23,10 @@ You won't just become the hero of the village, but the **hero of *ALL* the villa
 
 Two aspects of vanilla villages have been modified:
 
-- Villager spawns within vanilla village structures are replaced with zombie counterpart (nitwits and unemployed villagers respectively)
-- Brewing stands in vanilla village temples (churches) generate with max fuel, removing the need for blaze powder in order to start brewing potions of weakness.
+- Villager spawns within village structures are replaced with zombie counterpart (nitwits and unemployed villagers respectively)
+- Brewing stands in village temples (churches) generate with max fuel, removing the need for blaze powder in order to start brewing potions of weakness.
+    - Added this to simplify the curing process by removing the need for access to the Nether.
+    - Even with this added, the early game still feels balanced, regarding access to villager trades, because some overworld exploration is still required for the player to find the necessary ingredients for potions of weakness and golden apples (glass bottles, fermented spider eyes, gunpowder, gold ingots, apples, etc).
 
 ### Villagers to Zombie Villagers
 
