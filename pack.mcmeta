@@ -1,0 +1,35 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": [
+			{
+				"text": "The ",
+				"color": "gray"
+			},
+			{
+				"text": "hero",
+				"color": "#c7bb1b"
+			},
+			{
+				"text": " villagers ",
+				"color": "gray"
+			},
+			{
+				"text": "need",
+				"color": "#189d39"
+			},
+			{
+				"text": ", not the one they ",
+				"color": "gray"
+			},
+			{
+				"text": "deserve",
+				"color": "#9d2718"
+			},
+			{
+				"text": "...\n",
+				"color": "gray"
+			}
+		]
+    }
+}
