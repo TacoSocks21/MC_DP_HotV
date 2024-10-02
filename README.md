@@ -30,8 +30,8 @@ Two aspects of vanilla villages have been modified:
 
 | Without Data Pack | Description | With Data Pack |
 |:---:|:---:|:---:|
-| ![Villager](./images/villager_unemployed.png) | `Villagers` become `Zombie Villagers` | ![Zombie Villager](./images/zombie_villager_unemployed.png) |
-| <img src="./images/villager_nitwit.png" alt="Nitwit" height="350"/> | `Nitwits` become `Zombie Nitwits` | ![Zombie Nitwit](./images/zombie_villager_nitwit.png) |
+| <img src="./images/villager_unemployed.png" alt="Villager" height="250"/> | `Villagers` become `Zombie Villagers` | <img src="./images/zombie_villager_unemployed.png" alt="Zombie Villager" height="250"/> |
+| <img src="./images/villager_nitwit.png" alt="Nitwit" height="250"/> | `Nitwits` become `Zombie Nitwits` | <img src="./images/zombie_villager_nitwit.png" alt="Zombie Nitwit" height="250"/> |
 
 
 
