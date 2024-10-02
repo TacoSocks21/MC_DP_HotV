@@ -1,8 +1,8 @@
 # Hero of the Villagers
 
-## Minecraft Data Pack by TacoSocks
-
 > "You won't just become the hero of the village, but the **hero of *ALL* villagers**!"
+
+## Minecraft Data Pack by TacoSocks
 
 This simple data pack changes up the interaction with villagers in the early game. With all natural villager spawns in villages being replaced with zombie villagers, the player must cure every villager of their zombified state in order to take advantage of trading.
 
